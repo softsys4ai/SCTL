@@ -1,0 +1,6 @@
+   {
+      "current_level": 8,
+      "leaf_id": "3536f240-f52e-11ea-998a-a0afbd9e9327",
+      "parents": "3530dd38-f52e-11ea-9a32-a0afbd9e9327",
+      "rule": "else: return 35.518445826647756"
+   }

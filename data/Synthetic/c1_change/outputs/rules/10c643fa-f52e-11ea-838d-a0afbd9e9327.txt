@@ -1,0 +1,18 @@
+   {
+      "current_level": 7,
+      "leaf_id": "10c643fa-f52e-11ea-838d-a0afbd9e9327",
+      "parents": "0ee475f8-f52e-11ea-91c6-a0afbd9e9327",
+      "rule": "if obj[11]>8.26721589378765:",
+      "feature_idx": 11,
+      "instances": 9,
+      "metric": 0.12091690941412125
+   }
+   , {
+      "current_level": 8,
+      "leaf_id": "10c72dd0-f52e-11ea-86d1-a0afbd9e9327",
+      "parents": "10c643fa-f52e-11ea-838d-a0afbd9e9327",
+      "rule": "return 33.26415915745665",
+      "feature_idx": 11,
+      "instances": 9,
+      "metric": 0
+   }

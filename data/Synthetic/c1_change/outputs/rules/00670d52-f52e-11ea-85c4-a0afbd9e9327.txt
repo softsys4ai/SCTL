@@ -1,0 +1,9 @@
+   {
+      "current_level": 3,
+      "leaf_id": "00670d52-f52e-11ea-85c4-a0afbd9e9327",
+      "parents": "4f615ce2-f52d-11ea-a356-a0afbd9e9327",
+      "rule": "if obj[17]<=95.3390057556193:",
+      "feature_idx": 17,
+      "instances": 348,
+      "metric": 0.5003682668733993
+   }
