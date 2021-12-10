@@ -1,4 +1,4 @@
-RCTL
+SCTL
 ==============================
 
 A robust methodology to causal learning domain invariant feature set from a dataset without utilizing underlying graph structure
@@ -34,8 +34,8 @@ Project Organization
     │   │   └── tests and final plots.R
     │   │
     │   ├── models       <- Scripts for raw versions RCTL and ESS
-    │   │   ├── untitled2.py
-    │   │   ├── untitled3.py
+    │   │   ├── GSS_NIPS_model.py
+    │   │   ├── ESS_model_(prediction script).py
     │   │   └── untitled4.py
     │   │
     │   ├── all experiements+vizualization   <- Complete automated script generating all necessary experiments provided in the paper (values need to be fed for ESS)
@@ -46,8 +46,8 @@ Project Organization
     │   │   ├── c45.py
     │   │   ├── FCBF_module.py
     │   │   ├── test.py
-    │   │   ├── untitled0.py
-    │   │   └── untitled1.py
+    │   │   ├── real_data_experiments.py
+    │   │   └── real_data_visuals.py
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
