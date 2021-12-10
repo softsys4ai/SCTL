@@ -1,7 +1,8 @@
-RCTL
+SCTL
 ==============================
 
-A robust methodology to causal learning domain invariant feature set from a dataset without utilizing underlying graph structure
+A robust methodology to causal learning domain invariant feature set from a dataset without utilizing underlying graph structure. 
+Paper for the method: https://arxiv.org/abs/2103.00139
 
 Project Organization
 ------------
@@ -13,7 +14,8 @@ Project Organization
     │   ├── Synthetic       <- Data that has been generated using R scripts.
     │   └── Real            <- Data that had been obtained from a real-world scenario.
     │
-    ├── docs              <- A default folder containing the inital results and steps to run  |                        the code
+    ├── docs              <- A default folder containing the inital results and steps to run  
+    |                        the code
     │
     ├── references         <- Python files containing implemetations of other methods
     ├── reports
@@ -33,10 +35,10 @@ Project Organization
     │   │   ├── graph.R
     │   │   └── tests and final plots.R
     │   │
-    │   ├── models       <- Scripts for raw versions RCTL and ESS
-    │   │   ├── untitled2.py
-    │   │   ├── untitled3.py
-    │   │   └── untitled4.py
+    │   ├── models       <- Scripts for raw versions Greedy subset search (GSS) and Exahustive Subset Search (NIPS) version we used
+    │   │   ├── GSS_NIPS_model.py
+    │   │   ├── ESS_model_(prediction script).py
+    │   │   └── ESS_model_(original script).py
     │   │
     │   ├── all experiements+vizualization   <- Complete automated script generating all necessary experiments provided in the paper (values need to be fed for ESS)
     │   │   ├── outputs            <- supplmentary files and subfiles 
@@ -46,8 +48,8 @@ Project Organization
     │   │   ├── c45.py
     │   │   ├── FCBF_module.py
     │   │   ├── test.py
-    │   │   ├── untitled0.py
-    │   │   └── untitled1.py
+    │   │   ├── real_data_experiments.py
+    │   │   └── real_data_visuals.py
     │
     └── tox.ini            <- tox file with settings for running tox; see tox.readthedocs.io
 
