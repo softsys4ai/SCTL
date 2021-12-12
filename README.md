@@ -25,6 +25,8 @@ Project Organization
     │                         
     │
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment
+    |
+    ├── SCTL_experiments.ipynb   <- A sample notebook containing experimentation on multiple domain and comparison of SCTL with multiple     |                               methods    
     │    
     ├── src                <- Source code for use in this project.
     │   ├── _pycache_      <- Necessary files for python module
