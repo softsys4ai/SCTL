@@ -14,8 +14,7 @@ Project Organization
     │   ├── Synthetic       <- Data that has been generated using R scripts.
     │   └── Real            <- Data that had been obtained from a real-world scenario.
     │
-    ├── docs              <- A default folder containing the inital results and steps to run  
-    |                        the code
+    ├── docs              <- A default folder containing the inital results and steps to run the code
     │
     ├── references         <- Python files containing implemetations of other methods
     ├── reports
@@ -26,7 +25,7 @@ Project Organization
     │
     ├── requirements.txt   <- The requirements file for reproducing the analysis environment
     |
-    ├── SCTL_experiments.ipynb   <- A sample notebook containing experimentation on multiple domain and comparison of SCTL with multiple     |                               methods    
+    ├── SCTL_experiments.ipynb   <- A sample notebook containing experimentation on multiple domain and comparison of SCTL with multiple methods 
     │    
     ├── src                <- Source code for use in this project.
     │   ├── _pycache_      <- Necessary files for python module
